@@ -31,7 +31,7 @@ int CountOfPositiveNums(int [] array)
     return count;
 }
 
-Console.WriteLine("Давайте создадим Ваш массив: ");
+Console.WriteLine("Давайте создадим Ваш массив и я попробую узнать сколько положительных чисел Вы ввели: ");
 int [] arr = CreateArray();
 Console.Clear();
 Console.WriteLine("Ваш массив: ");
